@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
+| [2690-house-robber-iv](https://github.com/JohnMichael0311/mySolutions/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [2690-house-robber-iv](https://github.com/JohnMichael0311/mySolutions/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
