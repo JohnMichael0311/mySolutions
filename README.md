@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JohnMichael0311/mySolutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JohnMichael0311/mySolutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JohnMichael0311/mySolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
