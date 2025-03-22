@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
+| [2793-count-the-number-of-complete-components](https://github.com/JohnMichael0311/mySolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
+| [2793-count-the-number-of-complete-components](https://github.com/JohnMichael0311/mySolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JohnMichael0311/mySolutions/tree/master/0020-valid-parentheses) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/JohnMichael0311/mySolutions/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/JohnMichael0311/mySolutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
