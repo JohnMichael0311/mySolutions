@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/JohnMichael0311/mySolutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/JohnMichael0311/mySolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
 | [2690-house-robber-iv](https://github.com/JohnMichael0311/mySolutions/tree/master/2690-house-robber-iv) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
