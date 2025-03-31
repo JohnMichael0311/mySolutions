@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/JohnMichael0311/mySolutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/JohnMichael0311/mySolutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
