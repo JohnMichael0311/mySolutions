@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JohnMichael0311/mySolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JohnMichael0311/mySolutions/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JohnMichael0311/mySolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JohnMichael0311/mySolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
