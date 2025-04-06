@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/JohnMichael0311/mySolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/JohnMichael0311/mySolutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/JohnMichael0311/mySolutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/JohnMichael0311/mySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/JohnMichael0311/mySolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JohnMichael0311/mySolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JohnMichael0311/mySolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Heap (Priority Queue)
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JohnMichael0311/mySolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
