@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/JohnMichael0311/mySolutions/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JohnMichael0311/mySolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JohnMichael0311/mySolutions/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JohnMichael0311/mySolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
