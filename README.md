@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/JohnMichael0311/mySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/JohnMichael0311/mySolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/JohnMichael0311/mySolutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/JohnMichael0311/mySolutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JohnMichael0311/mySolutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/JohnMichael0311/mySolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/JohnMichael0311/mySolutions/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Union Find
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/JohnMichael0311/mySolutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/JohnMichael0311/mySolutions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/JohnMichael0311/mySolutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JohnMichael0311/mySolutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/JohnMichael0311/mySolutions/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
