@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/JohnMichael0311/mySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JohnMichael0311/mySolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JohnMichael0311/mySolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1656-count-good-triplets](https://github.com/JohnMichael0311/mySolutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JohnMichael0311/mySolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/JohnMichael0311/mySolutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JohnMichael0311/mySolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
