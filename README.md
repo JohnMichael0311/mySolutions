@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JohnMichael0311/mySolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JohnMichael0311/mySolutions/tree/master/0055-jump-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JohnMichael0311/mySolutions/tree/master/0039-combination-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JohnMichael0311/mySolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
