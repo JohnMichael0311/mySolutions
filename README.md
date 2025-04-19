@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/JohnMichael0311/mySolutions/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JohnMichael0311/mySolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2690-house-robber-iv](https://github.com/JohnMichael0311/mySolutions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/JohnMichael0311/mySolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2690-house-robber-iv](https://github.com/JohnMichael0311/mySolutions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JohnMichael0311/mySolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JohnMichael0311/mySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Heap (Priority Queue)
 |  |
