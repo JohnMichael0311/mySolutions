@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/JohnMichael0311/mySolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/JohnMichael0311/mySolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/JohnMichael0311/mySolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JohnMichael0311/mySolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1370-count-number-of-nice-subarrays](https://github.com/JohnMichael0311/mySolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JohnMichael0311/mySolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/JohnMichael0311/mySolutions/tree/master/1656-count-good-triplets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JohnMichael0311/mySolutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/JohnMichael0311/mySolutions/tree/master/0678-valid-parenthesis-string) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JohnMichael0311/mySolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JohnMichael0311/mySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
