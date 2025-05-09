@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JohnMichael0311/mySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/JohnMichael0311/mySolutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/JohnMichael0311/mySolutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/JohnMichael0311/mySolutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/JohnMichael0311/mySolutions/tree/master/0038-count-and-say) |
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JohnMichael0311/mySolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/JohnMichael0311/mySolutions/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JohnMichael0311/mySolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JohnMichael0311/mySolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JohnMichael0311/mySolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JohnMichael0311/mySolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JohnMichael0311/mySolutions/tree/master/0055-jump-game) |
